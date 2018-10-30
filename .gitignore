@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.coverprofile
+
+vendor/
+/meshify
+*.csv
