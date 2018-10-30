@@ -37,7 +37,7 @@
       -h, --help                help for meshify
       -n, --number int          Number of tweets per hashtag. (default 2000)
       -o, --out string          Output file path for csv formatted output. (default STDOUT)
-      -t, --tags strings        Hashtags to query. Note: '#' is a comment character in bash, so use ONLY the tag name rather than the full hashtag i.e. 'IoT' NOT '#IoT'! (default [IoT])
+      -t, --tags strings        Hashtags to query. Note: '#' is a comment character in bash, so use ONLY the tag name rather than the full hashtag (ex: 'IoT' NOT '#IoT'!) (default [IoT])
 
 ## Make targets
 
